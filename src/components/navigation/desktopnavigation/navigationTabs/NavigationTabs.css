@@ -1,0 +1,19 @@
+.ulTabsWrapper{
+    list-style-type:none;
+}
+.liTabs{
+    display: inline;
+    cursor: pointer;
+    color: rgb(164, 174, 207);
+    font-weight:1;
+    font-size: 18px;
+    font-family: 'Arial', sans-seif;
+    padding: 5%;
+    transition:0.3s;
+}
+
+.liTabs:hover{
+font-size: 20px;
+transition:0.3s;
+
+}
